@@ -4,7 +4,7 @@ title: "Mobile Wallet"
 
 # Swipechain Mobile Wallet
 
-![Mobile Wallet](./assets/mobile/banner.png)
+<!-- ![Mobile Wallet](./assets/mobile/banner.png) -->
 
 > A Wallet for Everyone
 

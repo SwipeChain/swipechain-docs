@@ -4,7 +4,7 @@ title: "Swipechain Desktop Wallet v2.x.x"
 
 # Desktop Wallet
 
-![Swipechain Desktop](./assets/desktop/banner.png)
+<!-- ![Swipechain Desktop](./assets/desktop/banner.png) -->
 
 [![Build Status](https://badgen.now.sh/circleci/github/SwipeChain/swipechain-desktop-wallet)](https://circleci.com/gh/SwipeChain/swipechain-desktop-wallet)
 [![Latest Version](https://badgen.now.sh/github/release/SwipeChain/desktop-wallet)](https://github.com/SwipeChain/desktop-wallet/releases)

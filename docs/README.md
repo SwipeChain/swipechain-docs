@@ -34,7 +34,7 @@ In this section, we describe the software components of the Swipechain. We focus
 The counterpart to the Guidebook, the tutorials contain practical code snippets and guides to help developers write productive code with the Swipechain as quickly as possible. We'll always provide context for the code we post here, so you'll have the convenience of copy-and-paste and the knowledge to strike your own path when necessary.
 
 [_Deployer_](/tutorials/deployer/) is the place to go for code snippets and tutorials related to building your own blockchain. We cover setting up your blockchain and deploying it to major cloud hosting service providers.
-[_Exchanges_](/exchanges/) is where developers for cryptocurrency exchanges can find information on how to integrate the Swipechain coin into their platforms. Though we cannot make any guarantees about the codebases of any projects besides the Swipechain coin, this recipe should serve as a good starting point for integrating Swipechain BridgeChain coins as well.
+[_Exchanges_](/tutorials/node/setup) is where developers for cryptocurrency exchanges can find information on how to integrate the Swipechain coin into their platforms. Though we cannot make any guarantees about the codebases of any projects besides the Swipechain coin, this recipe should serve as a good starting point for integrating Swipechain BridgeChain coins as well.
 [_IoT_](/tutorials/iot/) provides guidance on anything from setting up your Swipechain IoT development environment to storing and reacting to data on the Swipechain blockchain using platforms like Arduino and PlatformIO.
 
 ### [Swipechain Cryptography](/cryptography/)
