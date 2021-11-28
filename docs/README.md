@@ -34,7 +34,7 @@ In this section, we describe the software components of the Swipechain. We focus
 The counterpart to the Guidebook, the tutorials contain practical code snippets and guides to help developers write productive code with the Swipechain as quickly as possible. We'll always provide context for the code we post here, so you'll have the convenience of copy-and-paste and the knowledge to strike your own path when necessary.
 
 [_Deployer_](/tutorials/deployer/) is the place to go for code snippets and tutorials related to building your own blockchain. We cover setting up your blockchain and deploying it to major cloud hosting service providers.
-[_Exchanges_](/tutorials/node/setup) is where developers for cryptocurrency exchanges can find information on how to integrate the Swipechain coin into their platforms. Though we cannot make any guarantees about the codebases of any projects besides the Swipechain coin, this recipe should serve as a good starting point for integrating Swipechain BridgeChain coins as well.
+[_Exchanges_](https://exchange.swipechain.org) is where developers for cryptocurrency exchanges can find information on how to integrate the Swipechain coin into their platforms. Though we cannot make any guarantees about the codebases of any projects besides the Swipechain coin, this recipe should serve as a good starting point for integrating Swipechain BridgeChain coins as well.
 [_IoT_](/tutorials/iot/) provides guidance on anything from setting up your Swipechain IoT development environment to storing and reacting to data on the Swipechain blockchain using platforms like Arduino and PlatformIO.
 
 ### [Swipechain Cryptography](/cryptography/)
@@ -42,11 +42,11 @@ The counterpart to the Guidebook, the tutorials contain practical code snippets 
 This section provides details and insights into the cryptographic identities of the Swipechain blockchain. It covers topics such as PrivateKeys, PublicKeys, and Signatures; as well as the hashing and encoding methods used by Swipechain.
 
 
-### [Swipechain API](/api/)
+### [Swipechain API](https://exchange.swipechain.org)
 
 This section describes the structure of all Swipechain APIs, as well as usage examples. After you've read the Guidebook and tutorials, this section should be the first place you turn to find out how to interact with the Swipechain software.
 
-[_Public API_](/api/public/) describes the API that's accessible through any Swipechain node. API references for Swipechain v3 are included.
+[_Public API_](https://exchange.swipechain.org/public-api/public-api-guide) describes the API that's accessible through any Swipechain node. API references for Swipechain v3 are included.
 The [_SDK_](/sdk/) section includes information on how to use any of the Swipechain API wrappers we've written for supercharged development in your language of choice. Currently, the following SDKs are available:
 
 - Java
@@ -55,11 +55,9 @@ The [_SDK_](/sdk/) section includes information on how to use any of the Swipech
 - Python
 
 
-[_P2P_](/api/p2p/) outlines the functions available to the P2P API.
+[_JSON-RPC_](https://exchange.swipechain.org/json-rpc/getting-started) contains instructions on how to use the JSON-RPC API to interact with the Swipechain blockchain. This technology is of particular interest to exchanges looking to use a Bitcoin RPC-like interface to integrate Swipechain into their platform.
 
-[_JSON-RPC_](/api/json-rpc/) contains instructions on how to use the JSON-RPC API to interact with the Swipechain blockchain. This technology is of particular interest to exchanges looking to use a Bitcoin RPC-like interface to integrate Swipechain into their platform.
-
-[_Webhooks_](/api/webhooks/) describes how to use the webhooks feature of Swipechain v3 to "listen" to events on the Swipechain blockchain. This is especially useful for developers who are looking to drive action in their applications in response to specific blockchain events (transactions, vote, etc.)
+[_Webhooks_](/guidebook/core/webhooks) describes how to use the webhooks feature of Swipechain v3 to "listen" to events on the Swipechain blockchain. This is especially useful for developers who are looking to drive action in their applications in response to specific blockchain events (transactions, vote, etc.)
 
 ### [FAQ](/faq/)
 
